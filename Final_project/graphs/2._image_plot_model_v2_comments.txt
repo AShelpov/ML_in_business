@@ -1,0 +1,21 @@
+Model predict angry label index 0. True label is angry index 0
+Model predict True label
+================================================== NEXT IMAGE ==================================================
+Model predict sad label index 5. True label is disgusted index 1
+Model predict False label
+================================================== NEXT IMAGE ==================================================
+Model predict neutral label index 4. True label is fearful index 2
+Model predict False label
+================================================== NEXT IMAGE ==================================================
+Model predict happy label index 3. True label is happy index 3
+Model predict True label
+================================================== NEXT IMAGE ==================================================
+Model predict neutral label index 4. True label is neutral index 4
+Model predict True label
+================================================== NEXT IMAGE ==================================================
+Model predict sad label index 5. True label is sad index 5
+Model predict True label
+================================================== NEXT IMAGE ==================================================
+Model predict surprised label index 6. True label is surprised index 6
+Model predict True label
+================================================== NEXT IMAGE ==================================================
